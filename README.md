@@ -2,7 +2,7 @@
 <img src="https://github.com/MatheusMena/MatheusMena/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-#     - Olá, eu sou Matheus Mena
+#     - Olá, Bem vindo ao meu perfil
   estudante de programação na Trybe .👋
 ### 𝗦𝘁𝗮𝘁𝘀
 <div align="center">
