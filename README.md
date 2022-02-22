@@ -9,3 +9,7 @@
   <a href="https://github.com/MatheusMena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMena&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+
+ <a href="https://www.linkedin.com/in/matheus-marino-2b211373/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;  
