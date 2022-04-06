@@ -1,3 +1,4 @@
+<img src="https://via.placeholder.com/15/1AACCD/000000?text=+" width="100%" height="50px" >
 <div align="center">
 <img src="https://github.com/MatheusMena/MatheusMena/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
