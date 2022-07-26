@@ -10,6 +10,7 @@
 <h3>🌱 Estudando atualmente:</h3>
 <li> NoSql</li>
 <li> mongoDb</li>
+<li> c#</li>
   <h3> Tecnologias utilizadas </h3>
   <p>
    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50">
